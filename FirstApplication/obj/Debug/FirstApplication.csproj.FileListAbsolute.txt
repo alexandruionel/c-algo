@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\alexi\source\repos\FirstApplication\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\alexi\source\repos\FirstApplication\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\alexi\source\repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\alexi\source\repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\alexi\source\repos\FirstApplication\FirstApplication\obj\Debug\FirstApplication.csproj.SuggestedBindingRedirects.cache
