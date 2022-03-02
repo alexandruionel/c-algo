@@ -10,6 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            string inputData=Console.ReadLine();
+            int numar= Convert.ToInt32(inputData);
+
         }
     }
 }
