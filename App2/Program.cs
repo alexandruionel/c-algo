@@ -1,18 +1,42 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsoleApp1
+namespace FirstApplication
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            string inputData=Console.ReadLine();
-            int numar= Convert.ToInt32(inputData);
-
+            string inputData = Console.ReadLine();
+            string city = Convert.ToString(inputData);
+            switch (city) 
+            { 
+                case "Paris":
+                    Console.WriteLine("Franta");
+                    break;
+                case "Londra":
+                    Console.WriteLine("Marea Britanie");
+                    break;
+                case "Madrid":
+                    Console.WriteLine("Spania");
+                    break;
+                case "Berlin":
+                    Console.WriteLine("Germania");
+                    break;
+                case "Roma":
+                    Console.WriteLine("Italia");
+                    break;        
+                
+                
+                
+              
+              default:
+                Console.WriteLine("oras invalid");
+                break;
+                
+                    
+                    
+                    }
+          }
+           }
+                    
+                    
         }
-    }
-}

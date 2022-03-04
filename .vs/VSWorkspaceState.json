@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\App2",
+    "\\FirstApplication"
   ],
-  "SelectedNode": "\\C:\\Users\\alexi\\Source\\Repos\\c-algo",
+  "SelectedNode": "\\App2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
