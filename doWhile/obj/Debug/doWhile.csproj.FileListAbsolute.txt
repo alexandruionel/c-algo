@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\doWhile\obj\Debug\doWhile.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\doWhile\obj\Debug\doWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\doWhile\bin\Debug\doWhile.exe.config
+C:\Users\alexi\source\repos\c-algo\doWhile\bin\Debug\doWhile.exe
+C:\Users\alexi\source\repos\c-algo\doWhile\bin\Debug\doWhile.pdb
+C:\Users\alexi\source\repos\c-algo\doWhile\obj\Debug\doWhile.exe
+C:\Users\alexi\source\repos\c-algo\doWhile\obj\Debug\doWhile.pdb
