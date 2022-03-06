@@ -19,7 +19,7 @@ namespace doWhile
             };
             if (count > 0)
             {
-                Console.WriteLine((float) sum / count);
+                Console.WriteLine(sum);
             }
             else
             {
