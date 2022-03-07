@@ -7,23 +7,27 @@ namespace doWhile
     {
         static void Main(string[] args)
         {
-           int sum=0;
-           int count = 0;
+           int mic=0;
+           
            string inputData=Console.ReadLine();
 
-           while (inputData != "x"){
+           while (inputData != "0"){
                 int numar=Convert.ToInt32(inputData);
-                sum +=numar;
-                count++;
+                if(numar<mic){
+                    mic=numar;}
+               
                 inputData=Console.ReadLine();
             };
-            if (count > 0)
+            if (mic>0)
             {
-                Console.WriteLine(sum);
+                Console.WriteLine(mic);
             }
             else
             {
-                Console.WriteLine(0);
+                if (mic == 0) { 
+                Console.WriteLine(0);}
+                else {if(mic <0) {
+                        Console.WriteLine(mic);}
             }
 
 
@@ -42,4 +46,4 @@ namespace doWhile
             
         }
     }
-}
+}}
