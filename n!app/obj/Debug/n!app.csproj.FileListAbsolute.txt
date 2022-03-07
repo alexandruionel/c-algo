@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\n!app\obj\Debug\n!app.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\n!app\obj\Debug\n!app.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\n!app\obj\Debug\n!app.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\n!app\bin\Debug\n!app.exe.config
+C:\Users\alexi\source\repos\c-algo\n!app\bin\Debug\n!app.exe
+C:\Users\alexi\source\repos\c-algo\n!app\bin\Debug\n!app.pdb
+C:\Users\alexi\source\repos\c-algo\n!app\obj\Debug\n!app.exe
+C:\Users\alexi\source\repos\c-algo\n!app\obj\Debug\n!app.pdb
