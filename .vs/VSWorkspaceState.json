@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\votesV2"
+    "\\strings"
   ],
+  "SelectedNode": "\\strings\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace strings
 {
@@ -10,36 +7,21 @@ namespace strings
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
-            while (input != "stop" && input != "")
+            string text=Console.ReadLine();
+            int number=Convert.ToInt32(Console.ReadLine());
+            string[] cuvinte=text.Split(' ');
+
+            if (number <= cuvinte.Length)
             {
-                string inputType = "";
-                bool onlyDigits = true;
-
-                for (int i = 0; i < input.Length; i++)
-                {
-                    if (input[i] < '0' || input[i] > '9')
-                        onlyDigits = false;
-                }
-
-                if (onlyDigits)
-                {
-                    inputType = "numar";
-                }
-
-                if (input == "true" || input == "false")
-                {
-                    inputType = "valoare booleana";
-                }
-
-                if (inputType == "")
-                {
-                    inputType = "text";
-                }
-
-                Console.WriteLine(inputType);
-                input = Console.ReadLine();
+                Console.WriteLine(cuvinte[number-1]);
             }
+            else
+            {
+                Console.WriteLine("N/A");
+            }
+            
+            
+            
         }
         }
     }
