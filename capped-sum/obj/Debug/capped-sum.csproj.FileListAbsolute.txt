@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\capped-sum\bin\Debug\capped-sum.exe.config
+C:\Users\alexi\source\repos\c-algo\capped-sum\bin\Debug\capped-sum.exe
+C:\Users\alexi\source\repos\c-algo\capped-sum\bin\Debug\capped-sum.pdb
+C:\Users\alexi\source\repos\c-algo\capped-sum\obj\Debug\capped-sum.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\capped-sum\obj\Debug\capped-sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\capped-sum\obj\Debug\capped-sum.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\capped-sum\obj\Debug\capped-sum.exe
+C:\Users\alexi\source\repos\c-algo\capped-sum\obj\Debug\capped-sum.pdb
