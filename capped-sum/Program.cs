@@ -18,6 +18,9 @@ namespace CappedSum
                 {
                     break;
                 }
+                else if(sum+number==sumLimit){
+                    break;
+                }
                 sum += number;
                 count++;
                 
