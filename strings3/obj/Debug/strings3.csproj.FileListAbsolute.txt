@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\strings3\bin\Debug\strings3.exe.config
+C:\Users\alexi\source\repos\c-algo\strings3\bin\Debug\strings3.exe
+C:\Users\alexi\source\repos\c-algo\strings3\bin\Debug\strings3.pdb
+C:\Users\alexi\source\repos\c-algo\strings3\obj\Debug\strings3.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\strings3\obj\Debug\strings3.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\strings3\obj\Debug\strings3.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\strings3\obj\Debug\strings3.exe
+C:\Users\alexi\source\repos\c-algo\strings3\obj\Debug\strings3.pdb
