@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "count-text-occurencies", "count-text-occurencies.csproj", "{233B8F2F-BCA6-4753-A9F4-41ED9A79DA0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233B8F2F-BCA6-4753-A9F4-41ED9A79DA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233B8F2F-BCA6-4753-A9F4-41ED9A79DA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233B8F2F-BCA6-4753-A9F4-41ED9A79DA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233B8F2F-BCA6-4753-A9F4-41ED9A79DA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D894AF25-4010-4ED4-8EAE-60747A935817}
+	EndGlobalSection
+EndGlobal

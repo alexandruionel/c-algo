@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\count-text-occurencies\bin\Debug\count-text-occurencies.exe.config
+C:\Users\alexi\source\repos\c-algo\count-text-occurencies\bin\Debug\count-text-occurencies.exe
+C:\Users\alexi\source\repos\c-algo\count-text-occurencies\bin\Debug\count-text-occurencies.pdb
+C:\Users\alexi\source\repos\c-algo\count-text-occurencies\obj\Debug\count-text-occurencies.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\count-text-occurencies\obj\Debug\count-text-occurencies.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\count-text-occurencies\obj\Debug\count-text-occurencies.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\count-text-occurencies\obj\Debug\count-text-occurencies.exe
+C:\Users\alexi\source\repos\c-algo\count-text-occurencies\obj\Debug\count-text-occurencies.pdb
