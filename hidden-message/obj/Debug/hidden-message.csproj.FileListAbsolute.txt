@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\hidden-message\bin\Debug\hidden-message.exe.config
+C:\Users\alexi\source\repos\c-algo\hidden-message\bin\Debug\hidden-message.exe
+C:\Users\alexi\source\repos\c-algo\hidden-message\bin\Debug\hidden-message.pdb
+C:\Users\alexi\source\repos\c-algo\hidden-message\obj\Debug\hidden-message.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\hidden-message\obj\Debug\hidden-message.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\hidden-message\obj\Debug\hidden-message.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\hidden-message\obj\Debug\hidden-message.exe
+C:\Users\alexi\source\repos\c-algo\hidden-message\obj\Debug\hidden-message.pdb
