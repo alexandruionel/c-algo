@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app3\\ConsoleApp1",
-    "\\strings3"
+    "\\hidden-message",
+    "\\strings4",
+    "\\votesV2"
   ],
-  "SelectedNode": "\\strings3\\Program.cs",
+  "SelectedNode": "\\strings4\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
