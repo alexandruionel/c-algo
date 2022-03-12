@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace strings_5
 {
@@ -12,15 +9,32 @@ namespace strings_5
 
         {
             string input= Console.ReadLine();
-            string total=string.Empty;
+            
+            string[] cuvinte=input.Split(' ');
+
             int count = 1;
-            while(count<6)
+            while(count<=6)
             {
-                total += input;
+                
                 count++;
+                string nume=cuvinte+" ";
                 input = Console.ReadLine();
             }
-           Console.WriteLine(total);
+           
+            Console.WriteLine(nume.Length);
+           
+           for(int i = 0; i < nume.Length; i++)
+            {
+               if(nume[i] == input && i<=3)
+            {
+                Console.WriteLine("echipa verde");
+            }else
+            {
+                Console.WriteLine("echipa rosie");
+            }
+            }
+           
+           
             
             
 

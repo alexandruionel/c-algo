@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\hidden-message",
+    "\\strings",
+    "\\strings 5",
     "\\strings4",
     "\\votesV2"
   ],
-  "SelectedNode": "\\strings4\\Program.cs",
+  "SelectedNode": "\\strings 5\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
