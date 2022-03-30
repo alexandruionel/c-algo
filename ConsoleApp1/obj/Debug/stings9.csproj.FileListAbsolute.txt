@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\alexi\source\repos\c-algo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\alexi\source\repos\c-algo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\alexi\source\repos\c-algo\ConsoleApp1\obj\Debug\stings9.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\ConsoleApp1\obj\Debug\stings9.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\ConsoleApp1\obj\Debug\stings9.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\alexi\source\repos\c-algo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
