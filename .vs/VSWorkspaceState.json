@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\app3",
+    "\\app3\\ConsoleApp1",
+    "\\app4",
+    "\\capped-sum",
+    "\\count-text-occurencies",
+    "\\FirstApplication",
+    "\\strings4",
     "\\strings6",
-    "\\strings7"
+    "\\strings8_PascalTriangle"
   ],
-  "SelectedNode": "\\strings7\\Program.cs",
+  "SelectedNode": "\\strings8_PascalTriangle\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
