@@ -45,13 +45,13 @@ namespace strings7
             
             for(int j = 0;;)
             {
-                sum[j] = 0;
+                sumaMeri[j] = 0;
                 for(int i= 0; i < numarLivezi; i++)
                 {
-                    sum[j]+=livezi[i,j];
+                    sumaMeri[j]+=livezi[i,j];
                     
                 }
-                int meri=sum[j];
+                int meri=sumaMeri[j];
                 Console.WriteLine(string.Format("Meri :{0}",meri));
                 break;
             }
@@ -62,30 +62,31 @@ namespace strings7
             
             for(int j = 1;;)
             {
-                sum[j] = 0;
+                sumaPeri[j] = 0;
                 for(int i= 0; i < numarLivezi; i++)
                 {
-                    sum[j]+=livezi[i,j];
+                    sumaPeri[j]+=livezi[i,j];
                     
                 }
-                int peri=sum[j];
+                int peri=sumaPeri[j];
                 Console.WriteLine(string.Format("Peri :{0}",peri));
                 break;
             }
             
 
             //calculeaza numarul total de ciresi din matrice
+
             int[] sumaCiresi= new int[3];
             
             for(int j = 2;;)
             {
-                sum[j] = 0;
+                sumaCiresi[j] = 0;
                 for(int i= 0; i < numarLivezi; i++)
                 {
-                    sum[j]+=livezi[i,j];
+                    sumaCiresi[j]+=livezi[i,j];
                     
                 }
-                int ciresi=sum[j];
+                int ciresi=sumaCiresi[j];
                 Console.WriteLine(string.Format("Ciresi :{0}",ciresi));
                 break;
             }
