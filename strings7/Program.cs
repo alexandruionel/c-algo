@@ -52,7 +52,7 @@ namespace strings7
                     
                 }
                 int meri=sumaMeri[j];
-                Console.WriteLine(string.Format("Meri :{0}",meri));
+                Console.WriteLine(string.Format("Meri: {0}",meri));
                 break;
             }
 
@@ -69,7 +69,7 @@ namespace strings7
                     
                 }
                 int peri=sumaPeri[j];
-                Console.WriteLine(string.Format("Peri :{0}",peri));
+                Console.WriteLine(string.Format("Peri: {0}",peri));
                 break;
             }
             
@@ -87,7 +87,7 @@ namespace strings7
                     
                 }
                 int ciresi=sumaCiresi[j];
-                Console.WriteLine(string.Format("Ciresi :{0}",ciresi));
+                Console.WriteLine(string.Format("Ciresi: {0}",ciresi));
                 break;
             }
 
