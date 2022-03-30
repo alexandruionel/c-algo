@@ -92,3 +92,48 @@ if (gasit == 1)
 		cout << nume[solutie[i]] << "  ";
 }
 }
+//algoritm de cautare in adancime
+for (i = 0; i < n; i++)
+	vizitat[i] = 0;  //Toate orasele sunt nevizitate.
+noduri[0] = oras_start;  //Adaugam in lista noduri orasul de plecare
+nr_noduri++;
+vizitat[oras_start] = 1; //Marcam orasul de plecare ca vizitat
+while ((gasit == 0) && (nr_noduri != 0))  //Cat timp solutie negasita si noduri diferita de vida executa
+{
+	nod = noduri[0]; //nod = scoate_din_fata(noduri) //stocam primul element din noduri in variabila nod    
+	for (i = 0; i < nr_noduri - 1; i++)
+		noduri[i] = noduri[i + 1];      //Eliminam primul element din lista de noduri
+	nr_noduri--;
+	if (nod == oras_dest)         //Daca testare_tinta[problema] se aplica la stare(nod) atunci 
+		gasit = 1;              // Solutia este gasita //facem variabila booleana gasit adevarata 
+}
+		else
+		{
+		for (i = 0; i < n; i++)
+			if ((a[nod][i] == 1) && (vizitat[i] == 0))      //Adaugam la final in noduri orasele nevizitate care sunt conectate de nod                 
+			{
+				noduri[nr_noduri] = i;    //adaugam orasul i (nevizitat si conectat cu nod) pe pozitia nr_noduri in lista de noduri
+				nr_noduri++;
+				vizitat[i] = 1;    //Orasele adaugate sunt marcate ca vizitate
+				parinte[i] = nod;  // Se retine pentru oricare din orasele adaugate nodul parinte ca fiind nod
+			}
+
+		}
+}
+//cautare limita
+adancime[oras_start] = 0; // pentru fiecare nod se retine si adancimea la care se afla, incepand cu radacina care este la 0
+adancime[i] = adancime[nod] + 1;
+if ((a[nod][i] == 1) && ((vizitat[i] == 0) || ((vizitat[i] == 1) && (adancime[i] > adancime[nod] + 1))))      //Adaugam la inceput in noduri orasele nevizitate care sunt conectate de nod   
+										// SAU orasele care au fost vizitate, dar adancimea veche (adancime[i])  este mai mare decat adancimea noua (adancime[nod] +1
+	if (adancime[nod] <= limita)
+	{
+		Constantin Cristian Dinu8 : 48 AM
+			if (gasit == 1)
+			{
+				cout << "  Solutia s-a gasit la limita " << limita;
+			}
+			else
+				cout << "Nu s-a gasit solutia la limita " << limita;
+		while ((gasit == 0) && (limita < n))
+		{
+			limita++;

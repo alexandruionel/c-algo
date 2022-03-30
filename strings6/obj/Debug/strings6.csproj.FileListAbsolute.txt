@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\strings6\bin\Debug\strings6.exe.config
+C:\Users\alexi\source\repos\c-algo\strings6\bin\Debug\strings6.exe
+C:\Users\alexi\source\repos\c-algo\strings6\bin\Debug\strings6.pdb
+C:\Users\alexi\source\repos\c-algo\strings6\obj\Debug\strings6.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\strings6\obj\Debug\strings6.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\strings6\obj\Debug\strings6.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\strings6\obj\Debug\strings6.exe
+C:\Users\alexi\source\repos\c-algo\strings6\obj\Debug\strings6.pdb

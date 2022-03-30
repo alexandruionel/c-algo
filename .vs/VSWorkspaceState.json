@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\App2",
-    "\\app3",
-    "\\app3\\ConsoleApp1",
-    "\\app4",
-    "\\strings",
-    "\\strings 5",
-    "\\strings3",
-    "\\strings4",
-    "\\votesV2"
+    "\\strings6",
+    "\\strings7"
   ],
-  "SelectedNode": "\\strings 5\\Program.cs",
+  "SelectedNode": "\\strings7\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

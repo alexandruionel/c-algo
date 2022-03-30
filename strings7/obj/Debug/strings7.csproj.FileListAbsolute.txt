@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\strings7\obj\Debug\strings7.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\strings7\obj\Debug\strings7.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\strings7\obj\Debug\strings7.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\strings7\bin\Debug\strings7.exe.config
+C:\Users\alexi\source\repos\c-algo\strings7\bin\Debug\strings7.exe
+C:\Users\alexi\source\repos\c-algo\strings7\bin\Debug\strings7.pdb
+C:\Users\alexi\source\repos\c-algo\strings7\obj\Debug\strings7.exe
+C:\Users\alexi\source\repos\c-algo\strings7\obj\Debug\strings7.pdb
