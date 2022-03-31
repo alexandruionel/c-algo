@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\functii2\bin\Debug\functii2.exe.config
+C:\Users\alexi\source\repos\c-algo\functii2\bin\Debug\functii2.exe
+C:\Users\alexi\source\repos\c-algo\functii2\bin\Debug\functii2.pdb
+C:\Users\alexi\source\repos\c-algo\functii2\obj\Debug\functii2.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\functii2\obj\Debug\functii2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\functii2\obj\Debug\functii2.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\functii2\obj\Debug\functii2.exe
+C:\Users\alexi\source\repos\c-algo\functii2\obj\Debug\functii2.pdb
