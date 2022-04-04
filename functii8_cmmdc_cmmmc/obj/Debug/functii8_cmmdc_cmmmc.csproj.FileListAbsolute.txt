@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\functii8_cmmdc_cmmmc\bin\Debug\functii8_cmmdc_cmmmc.exe.config
+C:\Users\alexi\source\repos\c-algo\functii8_cmmdc_cmmmc\bin\Debug\functii8_cmmdc_cmmmc.exe
+C:\Users\alexi\source\repos\c-algo\functii8_cmmdc_cmmmc\bin\Debug\functii8_cmmdc_cmmmc.pdb
+C:\Users\alexi\source\repos\c-algo\functii8_cmmdc_cmmmc\obj\Debug\functii8_cmmdc_cmmmc.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\functii8_cmmdc_cmmmc\obj\Debug\functii8_cmmdc_cmmmc.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\functii8_cmmdc_cmmmc\obj\Debug\functii8_cmmdc_cmmmc.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\functii8_cmmdc_cmmmc\obj\Debug\functii8_cmmdc_cmmmc.exe
+C:\Users\alexi\source\repos\c-algo\functii8_cmmdc_cmmmc\obj\Debug\functii8_cmmdc_cmmmc.pdb
