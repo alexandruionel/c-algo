@@ -26,11 +26,6 @@ namespace StringSwaps
 
             return new String(a);
 
-
-
-
-
-
         }
 
         static void ReadSwaps(out int[] firstIndex, out int[] secondIndex)
