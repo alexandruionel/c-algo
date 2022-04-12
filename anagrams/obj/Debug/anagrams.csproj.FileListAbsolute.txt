@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\anagrams\obj\Debug\anagrams.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\anagrams\obj\Debug\anagrams.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\anagrams\obj\Debug\anagrams.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\anagrams\bin\Debug\anagrams.exe.config
+C:\Users\alexi\source\repos\c-algo\anagrams\bin\Debug\anagrams.exe
+C:\Users\alexi\source\repos\c-algo\anagrams\bin\Debug\anagrams.pdb
+C:\Users\alexi\source\repos\c-algo\anagrams\obj\Debug\anagrams.exe
+C:\Users\alexi\source\repos\c-algo\anagrams\obj\Debug\anagrams.pdb
