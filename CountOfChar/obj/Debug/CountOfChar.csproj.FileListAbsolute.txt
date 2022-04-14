@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\CountOfChar\bin\Debug\CountOfChar.exe.config
+C:\Users\alexi\source\repos\c-algo\CountOfChar\bin\Debug\CountOfChar.exe
+C:\Users\alexi\source\repos\c-algo\CountOfChar\bin\Debug\CountOfChar.pdb
+C:\Users\alexi\source\repos\c-algo\CountOfChar\obj\Debug\CountOfChar.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\CountOfChar\obj\Debug\CountOfChar.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\CountOfChar\obj\Debug\CountOfChar.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\CountOfChar\obj\Debug\CountOfChar.exe
+C:\Users\alexi\source\repos\c-algo\CountOfChar\obj\Debug\CountOfChar.pdb
