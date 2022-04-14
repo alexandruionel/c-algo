@@ -1,0 +1,8 @@
+C:\Users\alexi\source\repos\c-algo\uglytogood2\bin\Debug\uglytogood2.exe.config
+C:\Users\alexi\source\repos\c-algo\uglytogood2\bin\Debug\uglytogood2.exe
+C:\Users\alexi\source\repos\c-algo\uglytogood2\bin\Debug\uglytogood2.pdb
+C:\Users\alexi\source\repos\c-algo\uglytogood2\obj\Debug\uglytogood2.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\c-algo\uglytogood2\obj\Debug\uglytogood2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\c-algo\uglytogood2\obj\Debug\uglytogood2.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\c-algo\uglytogood2\obj\Debug\uglytogood2.exe
+C:\Users\alexi\source\repos\c-algo\uglytogood2\obj\Debug\uglytogood2.pdb
